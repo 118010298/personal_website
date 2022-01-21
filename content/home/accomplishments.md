@@ -55,14 +55,14 @@ item:
   organization_url: https://www.ets.org/gre
   title: GRE Test
   url: ""
-- certificate_url: https://cuhk.edu.cn/en
-  date_end: "2022-01-20"
-  date_start: "2021-10-20"
-  description: "Clustering Enabled Few-shot Load Forecasting"
-  organization: URA Commitee, CUHK(SZ)
-  organization_url: https://cuhk.edu.cn/en
-  title: 'Undergraduate Research Award'
-  url: ""
+#- certificate_url: https://cuhk.edu.cn/en
+  #date_end: "2022-01-20"
+  #date_start: "2021-10-20"
+  #description: "Clustering Enabled Few-shot Load Forecasting"
+  #organization: URA Commitee, CUHK(SZ)
+  #organization_url: https://cuhk.edu.cn/en
+  #title: 'Undergraduate Research Award'
+  #url: ""
 
 design:
   columns: '2' 
