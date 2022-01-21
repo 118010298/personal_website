@@ -1,79 +1,62 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: While the advanced machine learning algorithms are effective in load
+  forecasting, they often suffer from low data utilization, and hence their
+  superior performance relies on massive datasets. This motivates us to design
+  machine learning algorithms with improved data utilization. Specifically, we
+  consider the load forecasting for a new user in the system by observing only
+  few shots (data points) of its energy consumption. This task is challenging
+  since the limited samples are insufficient to exploit the temporal
+  characteristics, essential for load forecasting. Nonetheless, we notice that
+  there are not too many temporal characteristics for residential loads due to
+  the limited kinds of human lifestyle. Hence, we propose to utilize the
+  historical load profile data from existing users to conduct effective
+  clustering, which mitigates the challenges brought by the limited samples.
+  Specifically, we first design a feature extraction clustering method for
+  categorizing historical data. Then, inheriting the prior knowledge from the
+  clustering results, we propose a two-phase Long Short Term Memory (LSTM) model
+  to conduct load forecasting for new users. The proposed method outperforms the
+  traditional LSTM model, especially when the training sample size fails to
+  cover a whole period (i.e., 24 hours in our task). Extensive case studies on
+  two real-world datasets and one synthetic dataset verify the effectiveness and
+  efficiency of our method.
+slides: example
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
+  - Qiyuan Wang
+  - Zhihui Chen
+  - Chenye Wu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - Equal contribution
+  - Equal contribution
+  - Corresponding author
+publication: In *IEEE Sustainable Power and Energy Conference, 2021*
+summary: The contribution of this paper to load forecasting is the introduction
+  of Few-shot learning method, which uses prior knowledge from historical user
+  data to predict scarce samples more accurately than traditional forecasting
+  methods
+url_dataset: ""
+url_project: ""
+publication_short: In *ISPEC2021*
+url_source: ""
+url_video: ""
+title: Clustering Enabled Few-shot Load Forecasting
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects:
+  - example
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: structure.jpg
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
