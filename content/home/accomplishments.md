@@ -39,7 +39,6 @@ item:
   organization_url: https://www.ets.org/toefl
   title: TOEFL Test
   url: ""
-
 - certificate_url: https://admissions.cuhk.edu.cn/article/898
   date_end: ""
   date_start: "2018-09-15"
