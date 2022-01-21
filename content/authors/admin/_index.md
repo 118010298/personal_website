@@ -1,6 +1,6 @@
 ---
 title: Qiyuan Wang
-role: Bachelor of Data Science
+role: Undergraduate Student Major in Statistics
 avatar_filename: avatar.jpg
 bio: My research interests include Federated Learning, Transfer Learning and
   Data Mining.
@@ -33,7 +33,7 @@ user_groups:
   - https://airs.cuhk.edu.cn/en
 highlight_name: true
 ---
-Qiyuan Wang is a Bachelor of Data Science at the Chinese University of Hongkong, Shenzhen. His research interests include Artificial Intelligence, Edge Computing, Federated Learning and Transfer Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system.
+Qiyuan Wang is an undergraduate student in Statistics at the Chinese University of Hongkong, Shenzhen. His research interests include Artificial Intelligence, Edge Computing, Federated Learning and Transfer Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system.
 
 
 
