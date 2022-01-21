@@ -24,7 +24,7 @@ organizations:
     url: https://airs.cuhk.edu.cn/en
 education:
   courses:
-    - course: Bachelor of Data Science
+    - course: BSc in Statistics, Data Science Stream
       institution: The Chinese University of Hong Kong, Shen zhen
       year: 2022
 email: wqy213@yeah.net
