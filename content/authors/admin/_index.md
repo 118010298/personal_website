@@ -1,7 +1,7 @@
 ---
 title: Qiyuan Wang
 role: Bachelor of Data Science
-avatar_filename: content/authors/admin/photo.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Federated Learning, Transfer Learning and
   Data Mining.
 interests:
