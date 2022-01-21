@@ -1,44 +1,36 @@
 ---
 title: Qiyuan Wang
 role: Bachelor of Data Science
+avatar_filename: photo.jpg
 bio: My research interests include Federated Learning, Transfer Learning and
   Data Mining.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Edge Computing
+  - Federated Learning
+  - Transfer Learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/118010298
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Chinese University of Hong Kong, Shenzhen
+    url: https://www.cuhk.edu.cn/en
+  - name: Shenzhen Institute of Artificial Intelligence And Robotics for Society
+      (AIRS)
+    url: https://airs.cuhk.edu.cn/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Bachelor in Data Science
+      institution: The Chinese University of Hong Kong, Shen zhen
+      year: 2022
+email: wqy213@yeah.net
 superuser: true
+user_groups:
+  - https://airs.cuhk.edu.cn/en
 highlight_name: true
 ---
 
