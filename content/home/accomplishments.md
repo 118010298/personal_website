@@ -33,35 +33,43 @@ item:
   url: ""
 - certificate_url: https://www.ets.org/toefl
   date_end: ""
-  date_start: "2020-09-19"
-  description: "TOEFL Score： 104"
+  date_start: "2021-01-19"
+  description: "TOEFL Score： 105"
   organization: ETS
   organization_url: https://www.ets.org/toefl
   title: TOEFL Test
   url: ""
-- certificate_url: https://admissions.cuhk.edu.cn/article/898
+- certificate_url: https://cet.neea.edu.cn/
   date_end: ""
-  date_start: "2018-09-15"
-  description: "Bowen Scholarship 2018-2019, 2019-2020"
-  organization: CUHK(SZ)
-  organization_url: https://cuhk.edu.cn/en
-    title: CUHK(SZ) Bowen Scholarship
+  date_start: "2021-04-16"
+  description: "CET-6 Score： 633"
+  organization: CET
+  organization_url: https://cet.neea.edu.cn/
+  title: CET-6 Test
   url: ""
-- certificate_url: https://www.ets.org/gre
+- certificate_url: https://harmonia.cuhk.edu.cn/page/25
   date_end: ""
-  date_start: "2021-12-12"
-  description: GRE Score: 327+
-  organization: ETS
-  organization_url: https://www.ets.org/gre
-  title: GRE Test
+  date_start: "2020-09-15"
+  description: "Harmonia College Scholarship 2019-2020, 2020-2021"
+  organization: CUHK(SZ) Harmonia College
+  organization_url: https://harmonia.cuhk.edu.cn/page/25
+  title: CUHK(SZ) Harmonia College Scholarship
   url: ""
-#- certificate_url: https://cuhk.edu.cn/en
-  #date_end: "2022-01-20"
-  #date_start: "2021-10-20"
-  #description: "Clustering Enabled Few-shot Load Forecasting"
-  #organization: URA Commitee, CUHK(SZ)
-  #organization_url: https://cuhk.edu.cn/en
-  #title: 'Undergraduate Research Award'
+#- certificate_url: https://www.edx.org
+  #date_end: ""
+  #date_start: "2021-01-01"
+  #description: Formulated informed blockchain models, hypotheses, and use cases.
+  #organization: edX
+  #organization_url: https://www.edx.org
+  #title: Blockchain Fundamentals
+  #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#- certificate_url: https://www.datacamp.com
+  #date_end: "2020-12-21"
+  #date_start: "2020-07-01"
+  #description: ""
+  #organization: DataCamp
+  #organization_url: https://www.datacamp.com
+  #title: 'Object-Oriented Programming in R'
   #url: ""
 
 design:
