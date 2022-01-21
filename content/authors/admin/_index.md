@@ -37,4 +37,4 @@ Qiyuan Wang is an undergraduate student in Statistics at the Chinese University 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_QiyuanWang.pdf" "newtab" >}}resumé{{< /staticref >}}.
